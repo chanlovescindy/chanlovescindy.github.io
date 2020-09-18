@@ -3,35 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https:chanlovescindy.github.io/</loc>
-    <lastmod>2020-09-18T11:19:55+08:00</lastmod>
+    <loc>http://example.org/categories/</loc>
   </url>
   
   <url>
-    <loc>https:chanlovescindy.github.io/posts/</loc>
-    <lastmod>2020-09-18T11:19:55+08:00</lastmod>
+    <loc>http://example.org/</loc>
   </url>
   
   <url>
-    <loc>https:chanlovescindy.github.io/posts/20200918/</loc>
-    <lastmod>2020-09-18T11:19:55+08:00</lastmod>
+    <loc>http://example.org/tags/index/</loc>
   </url>
   
   <url>
-    <loc>https:chanlovescindy.github.io/posts/20200917/</loc>
-    <lastmod>2020-09-17T16:28:31+08:00</lastmod>
+    <loc>http://example.org/posts/</loc>
   </url>
   
   <url>
-    <loc>https:chanlovescindy.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https:chanlovescindy.github.io/tags/index/</loc>
-  </url>
-  
-  <url>
-    <loc>https:chanlovescindy.github.io/tags/</loc>
+    <loc>http://example.org/tags/</loc>
   </url>
   
 </urlset>

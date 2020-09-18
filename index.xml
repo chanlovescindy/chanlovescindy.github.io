@@ -2,28 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Diary For Cindy on Chan Loves Cindy Forever</title>
-    <link>https:chanlovescindy.github.io/</link>
+    <link>http://example.org/</link>
     <description>Recent content in Diary For Cindy on Chan Loves Cindy Forever</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 18 Sep 2020 11:19:55 +0800</lastBuildDate><atom:link href="https:chanlovescindy.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>第一个offer</title>
-      <link>https:chanlovescindy.github.io/posts/20200918/</link>
-      <pubDate>Fri, 18 Sep 2020 11:19:55 +0800</pubDate>
-      
-      <guid>https:chanlovescindy.github.io/posts/20200918/</guid>
-      <description>不管怎么样，我都是想争取到最好的。为我，为你，为我们。</description>
-    </item>
-    
-    <item>
-      <title>想起了《傲慢与偏见》</title>
-      <link>https:chanlovescindy.github.io/posts/20200917/</link>
-      <pubDate>Thu, 17 Sep 2020 16:28:31 +0800</pubDate>
-      
-      <guid>https:chanlovescindy.github.io/posts/20200917/</guid>
-      <description>A man who had felt less, might.</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
