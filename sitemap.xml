@@ -3,48 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
-    <lastmod>2020-09-18T10:00:43+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://example.org/</loc>
-    <lastmod>2020-09-18T10:00:43+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/first-category/</loc>
-    <lastmod>2020-09-18T10:00:43+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/first-tag/</loc>
-    <lastmod>2020-09-18T10:00:43+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/my-first-post/</loc>
-    <lastmod>2020-09-18T10:00:43+08:00</lastmod>
+    <lastmod>2020-09-17T16:28:31+08:00</lastmod>
   </url>
   
   <url>
     <loc>http://example.org/posts/</loc>
-    <lastmod>2020-09-18T10:00:43+08:00</lastmod>
+    <lastmod>2020-09-17T16:28:31+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/second-category/</loc>
-    <lastmod>2020-09-18T10:00:43+08:00</lastmod>
+    <loc>http://example.org/posts/20200917/</loc>
+    <lastmod>2020-09-17T16:28:31+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/second-tag/</loc>
-    <lastmod>2020-09-18T10:00:43+08:00</lastmod>
+    <loc>http://example.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/index/</loc>
   </url>
   
   <url>
     <loc>http://example.org/tags/</loc>
-    <lastmod>2020-09-18T10:00:43+08:00</lastmod>
   </url>
   
 </urlset>

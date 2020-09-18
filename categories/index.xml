@@ -5,25 +5,6 @@
     <link>http://example.org/categories/</link>
     <description>Recent content in Categories on Chan Loves Cindy Forever</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 18 Sep 2020 10:00:43 +0800</lastBuildDate><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>First category</title>
-      <link>http://example.org/categories/first-category/</link>
-      <pubDate>Fri, 18 Sep 2020 10:00:43 +0800</pubDate>
-      
-      <guid>http://example.org/categories/first-category/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Second category</title>
-      <link>http://example.org/categories/second-category/</link>
-      <pubDate>Fri, 18 Sep 2020 10:00:43 +0800</pubDate>
-      
-      <guid>http://example.org/categories/second-category/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-us</language><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
